@@ -1,0 +1,30 @@
+body{
+    padding-top:70px;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus{
+    background-color:#E41B17;
+}
+.navbar-inverse .navbar-nav > li > a,
+.navbar-inverse .navbar-brand,
+.dropdown-menu > li > a {
+    color:#b2b2b2;
+}
+.dropdown-menu {
+    background-color:#000;
+    border-top:3px solid #E41B17;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus{
+    background-color:#E41B17;
+    color:#fff;
+}
+.dropdown-menu .divider{
+    background-color: #efff00;
+}
+body{
+    height:4000px
+}
+.long-link{
+    width:200px;
+}
